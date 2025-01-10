@@ -17,6 +17,13 @@ you can create a good resume page for yourself |
 ```bash
 -- just download and copy paste source to your system and run it
 -- you can open folder in visual studio code and start it live
+```
 
-## contribute
-test
+## 📬 Contact Me
+
+- 💬 Telegram: [sir_root](https://t.me/sir_root)
+- 📧 Email: [sinaehsanpoor@gmail.com](mailto:sinaehsanpoor@gmail.com)
+- 🌐 Website: [sinaehsanpoor.ir](https://sinaehsanpoor.ir)
+- 📸 Instagram: [@amir_sina_81](https://instagram.com/amir_sina_81)
+
+
