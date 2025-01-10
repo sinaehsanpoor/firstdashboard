@@ -14,7 +14,9 @@ you can create a good resume page for yourself |
 - [4] easy to edit and work
 - [5] simple run
 ## Installation
-
 ```bash
 -- just download and copy paste source to your system and run it
--- you can open folder in visual studio code and start it live 
+-- you can open folder in visual studio code and start it live
+
+## contribute
+test
