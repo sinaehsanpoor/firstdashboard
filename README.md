@@ -1,4 +1,4 @@
-# Project Name
+# Project title
 
 personal responsive dashboard only using html/css
 
