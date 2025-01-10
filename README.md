@@ -17,4 +17,4 @@ you can create a good resume page for yourself |
 
 ```bash
 -- just download and copy paste source to your system and run it
--- you can open folder in visual studio code and start ir live 
+-- you can open folder in visual studio code and start it live 
